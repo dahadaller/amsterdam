@@ -139,11 +139,11 @@ The transit costs here are made with the following assumption: that you'd spend 
 
 There are plenty of [bike rental places in Amsterdam](https://www.iamsterdam.com/en/plan-your-trip/getting-around/rental/bike-hire). IMO it's the best way to get around the city; you see so much more than you could on foot. 
 
-Aswith everything in amsterdam, there's the issue of *expense*. Tourist rentals cost 10-20 euro per day. Locals (like me) can rent [OV-fiets](https://www.ns.nl/en/door-to-door/ov-fiets) for 4 euro per day, but we're limited to two rentals at a time. 
+As with everything in Amsterdam, there's the issue of *expense*. Tourist rentals cost 10-20 euro per day. Locals (like me) can rent [OV-fiets](https://www.ns.nl/en/door-to-door/ov-fiets) for 4 euro per day, but we're limited to two rentals at a time. 
 
 So, if you want to bike through Amsterdam we can do the following
 
 - In the morning, go together from Almere to the Amsterdam Zuid station. 
-- Once there, I can use my ID to rent two bikes for you. (I'll need to leave you the ID for the day) 
+- Once there, I can use my ID to rent the first two bikes for you. (I'll need to leave you the ID for the day) 
 - To get a third bike, you can go to the nearby [Black Bikes rental](https://black-bikes.com/bike/pedal-brake-bike/) (note need passport and 50 euro cash deposit)
 
