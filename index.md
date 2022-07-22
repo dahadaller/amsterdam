@@ -19,7 +19,7 @@ You can get to Amsterdam from Almere by either going to Amsterdam Zuid, or Amste
 
 ## The Day you Arrive
 
-Immediately as you exit the Arrivals gate at Schipol, you enter the Schipol Train Station. 
+Immediately as you exit the arrivals gate at Schipol, you enter the Schipol Train Station. 
 
 To buy a ticket card (called an "OV-Chipkaart") find one of the blue and yellow NS ticket machines. 
 
@@ -27,7 +27,7 @@ To buy a ticket card (called an "OV-Chipkaart") find one of the blue and yellow 
 
 
 
-In the lower right hand corner, change the language to English, and then select "Other Products" from the ticket machine's home page.
+In the lower left hand corner, change the language to English, and then select "Other Products" from the ticket machine's home page.
 
 ![](images/Screen Shot 2022-07-22 at 5.28.11 PM.png)
 
@@ -47,7 +47,7 @@ Then top up the card with 10 Euro (that's enough to get you from the Airport to 
 
 After you've topped up your card, find your train along with it's departure time and track.
 
-You can find the trains that go from Schipol to Almere on one of the tv screens in the station, or on the the [NS transit website](https://www.ns.nl/en/journeyplanner/#/?vertrek=ChIJj0GtOCjhxUcRXSwObEbLcsE&vertrektype=poi&vertreklabel=Schiphol%20Airport&aankomst=Almere%20Centrum&aankomsttype=treinstation&type=vertrek), or with the [NS App](https://www.ns.nl/en/travel-information/ns-on-your-mobile/ns-app.html).  
+Train schedules for the Schipol-Almere are on the tv screens in the station, the [NS transit website](https://www.ns.nl/en/journeyplanner/#/?vertrek=ChIJj0GtOCjhxUcRXSwObEbLcsE&vertrektype=poi&vertreklabel=Schiphol%20Airport&aankomst=Almere%20Centrum&aankomsttype=treinstation&type=vertrek), or in the [NS App](https://www.ns.nl/en/travel-information/ns-on-your-mobile/ns-app.html).  
 
 In dutch, **tijd=time** and **spoor=track** they are pronounced "tide" and "spore".  Here's an example: board from Schipol on Tracks 1 or 2 at 6:05pm, and then arrive at Almere Centrum on Track 4.
 
@@ -81,21 +81,21 @@ There are also information kiosks where people speak English. They look like thi
 
 ## Trains
 
-### [NS:](https://www.ns.nl/) The intercity transit system (From Almere to Amsterdam)
+### NS: The Intercity Transit System
 
 <img src="images/Screen Shot 2022-07-22 at 2.53.11 PM.png" alt="Screen Shot 2022-07-22 at 2.53.11 PM" style="zoom:27%;" />
 
-**NS trains are the only way to get between <u>Schipol</u>, <u>Amsterdam</u>, and <u>Almere</u> with Public transport.** NS trains are like CFR in Romania or MetroNorth in New York. There are two kinds of NS train: the *intercity*, and *sprinter*.  Both kinds of trains cost the same amount to ride, and they both stop at Almere and Amsterdam. 
+**NS trains are the only way to get between <u>Schipol</u>, <u>Amsterdam</u>, and <u>Almere</u> with Public transport.** [NS](https://www.ns.nl/) trains are like CFR in Romania or MetroNorth in New York. There are two kinds of NS train: the *intercity*, and *sprinter*.  Both kinds of trains cost the same amount to ride, and they both stop at Almere and Amsterdam. 
 
 These trains run on a schedule, usually once every 30 minutes. [Download the NS app](https://www.ns.nl/en/travel-information/ns-on-your-mobile/ns-app.html) to have your schedule with you so you don't miss your train! You can set the language in the app to English. You can also use [google maps](https://www.google.com/maps) to find directions by train.
 
-**NS Intercity Trains**  are Express Trains with top speed of 140km/h or 90mph. They only travel between stations in larger cities.
+**NS Intercity Trains**  are Express Trains with top speed of 140km/h or 90mph. These travel between Amsterdam, Schiphol and Almere.
 
 <img src="images/2560px-Alphen_aan_den_Rijn_ICMm_4024_(36649803356).jpg" alt="NS Intercity Train" style="zoom:25%;" />
 
 
 
-**NS Sprinter Train** are slow "local" trains that stop at smaller towns along the way to metropolitan train stations. 
+**NS Sprinter Train** are slow "local" trains that stop at smaller towns along the way to metropolitan train stations. These travel between Amsterdam, Schiphol and Almere.
 
 <img src="images/1920px-NS2463_--_'t_Harde_20180908.jpg" alt="NS Sprinter Train" style="zoom:35%;" />
 
@@ -104,11 +104,11 @@ These trains run on a schedule, usually once every 30 minutes. [Download the NS 
 
 
 
-### [GVB](https://webshop.gvb.nl/en_gb/daycard/): The metro/tram transit sytem (Amsterdam-only Transit System)
+### GVB: The Amsterdam-Only Transit System
 
 <img src="images/Screen Shot 2022-07-22 at 2.52.14 PM.png" alt="GVB Logo" style="zoom:50%;" />
 
-**GVB is only for transit inside of Amsterdam.** GVB has an  [iPhone App](https://apps.apple.com/nl/app/gvb-reis-app/id1544439867) and [Android App](https://play.google.com/store/apps/details?id=nl.gvb.reizigersapp&hl=en&gl=US) (you can set the language in the app to English) that provide directions and alerts, and you can also use [Google Maps](https://www.google.com/maps).
+**GVB is only for transit by metro/bus/tram inside of Amsterdam.** [GVB](https://www.gvb.nl/) has an  [iPhone App](https://apps.apple.com/nl/app/gvb-reis-app/id1544439867) and [Android App](https://play.google.com/store/apps/details?id=nl.gvb.reizigersapp&hl=en&gl=US) (you can set the language in the app to English) that provide directions and alerts, and you can also use [Google Maps](https://www.google.com/maps) to find directions.
 
 The GVB is one way you can get around Amsterdam, if you don't have a bike. These trains only travel inside the city of Amsterdam. They look like this:
 
@@ -134,4 +134,16 @@ The transit costs here are made with the following assumption: that you'd spend 
 **Total Transit Costs:**  € 77.00 per person 
 
 
+
+## Bike Rental
+
+There are plenty of [bike rental places in Amsterdam](https://www.iamsterdam.com/en/plan-your-trip/getting-around/rental/bike-hire). IMO it's the best way to get around the city; you see so much more than you could on foot. 
+
+Aswith everything in amsterdam, there's the issue of *expense*. Tourist rentals cost 10-20 euro per day. Locals (like me) can rent [OV-fiets](https://www.ns.nl/en/door-to-door/ov-fiets) for 4 euro per day, but we're limited to two rentals at a time. 
+
+So, if you want to bike through Amsterdam we can do the following
+
+- In the morning, go together from Almere to the Amsterdam Zuid station. 
+- Once there, I can use my ID to rent two bikes for you. (I'll need to leave you the ID for the day) 
+- To get a third bike, you can go to the nearby [Black Bikes rental](https://black-bikes.com/) 
 
