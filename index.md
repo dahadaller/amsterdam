@@ -145,5 +145,5 @@ So, if you want to bike through Amsterdam we can do the following
 
 - In the morning, go together from Almere to the Amsterdam Zuid station. 
 - Once there, I can use my ID to rent two bikes for you. (I'll need to leave you the ID for the day) 
-- To get a third bike, you can go to the nearby [Black Bikes rental](https://black-bikes.com/) 
+- To get a third bike, you can go to the nearby [Black Bikes rental](https://black-bikes.com/bike/pedal-brake-bike/) (note need passport and 50 euro cash deposit)
 
