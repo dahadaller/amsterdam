@@ -147,3 +147,8 @@ So, if you want to bike through Amsterdam we can do the following:
 - Once there, I can use my ID to rent the first two bikes for you. (I'll need to leave you the ID for the day) 
 - After this, I'll make my way to work. To get a third bike, you can go to the nearby [Black Bikes rental](https://black-bikes.com/bike/pedal-brake-bike/) ([google maps link](https://g.page/BBzuida?share)). You need a passport and 50 euro cash deposit, or a credit card to rent bikes in Amsterdam.
 
+
+
+### Flight Details
+
+![flight details](images/flight details.jpg)
