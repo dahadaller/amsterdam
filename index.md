@@ -7,7 +7,7 @@ In particular, these are important addresses:
 
 
 - [my address](https://goo.gl/maps/ZfEbgKadUhdBP9Fz9): Schilderhof 27, 1315 LS Almere
-- [your hotel (Anno)](https://g.page/annoalmere?share) address: Grote Markt 121, 1315 JC Almere
+- [your hotel (Anno)](https://www.google.com/maps/place//data=!4m2!3m1!1s0x47c616e04f2df49d:0xb2bcf9100a88cd75?source=g.page.share) address: Grote Markt 121, 1315 JC Almere
 
 
 
@@ -145,10 +145,10 @@ So, if you want to bike through Amsterdam we can do the following:
 
 - In the morning, take the train together from Almere to the Amsterdam Zuid station. 
 - Once there, I can use my ID to rent the first two bikes for you. (I'll need to leave you the ID for the day) 
-- After this, I'll make my way to work. To get a third bike, you can go to the nearby [Black Bikes rental](https://black-bikes.com/bike/pedal-brake-bike/) ([google maps link](https://g.page/BBzuida?share)). You need a passport and 50 euro cash deposit, or a credit card to rent bikes in Amsterdam.
+- After this, I'll make my way to work. To get a third bike, you can go to the nearby [Black Bikes rental](https://black-bikes.com/bike/pedal-brake-bike/) ([google maps link](https://www.google.com/maps/place/Black+Bikes+Zuidas+%7C+Bike+Rental+Amsterdam/@52.3361533,4.8734681,17z/data=!3m1!4b1!4m5!3m4!1s0x47c60a0594b0b237:0x7c6a6b85d19ab270!8m2!3d52.3361533!4d4.8734681)). You need a passport and 50 euro cash deposit, or a credit card to rent bikes in Amsterdam.
 
 
 
 ### Flight Details
 
-![flight details](images/flight details.jpg)
+![](images/flight details.jpg)
