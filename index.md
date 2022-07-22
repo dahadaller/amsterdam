@@ -114,7 +114,7 @@ The GVB is one way you can get around Amsterdam, if you don't have a bike. These
 
 <img src="images/1920px-Metro_Amsterdam_M5_Kraaiennest_4.jpeg" alt="Metro" style="zoom:30%;"/>
 
-However, GVB also operates trams, that run on top of the street amongst cars, bikes, and pedestrians. With a GVB day pass, you can also board them. Trams have more routes in Amsterdam, and can sometimes get you closer to where you need to be than the Metro.  They look like this:
+GVB also operates the trams, which run on top of the street amongst cars, bikes, and pedestrians. With a GVB day pass, you can also board them. Trams have more routes in Amsterdam, and can sometimes get you closer to where you need to be than the Metro. They look like this:
 
 <img src="images/tram_amsterdam_gvb-1030x501.jpg" alt="Metro" style="zoom:60%;"/>
 
