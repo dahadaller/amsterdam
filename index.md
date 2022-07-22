@@ -149,6 +149,6 @@ So, if you want to bike through Amsterdam we can do the following:
 
 
 
-### Flight Details
+## Flight Details
 
 ![](images/flight details.jpg)
