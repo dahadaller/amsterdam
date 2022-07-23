@@ -95,7 +95,7 @@ These trains run on a schedule, usually once every 30 minutes. [Download the NS 
 
 
 
-**NS Sprinter Train** are slow "local" trains that stop at smaller towns along the way to metropolitan train stations. These travel between Amsterdam, Schiphol and Almere.
+**NS Sprinter Train** are slow "local" trains that stop at smaller towns along the way to metropolitan train stations. These also travel between Amsterdam, Schiphol and Almere.
 
 <img src="images/1920px-NS2463_--_'t_Harde_20180908.jpg" alt="NS Sprinter Train" style="zoom:35%;" />
 
@@ -110,13 +110,15 @@ These trains run on a schedule, usually once every 30 minutes. [Download the NS 
 
 **GVB is only for transit by metro/bus/tram inside of Amsterdam.** [GVB](https://www.gvb.nl/) has an  [iPhone App](https://apps.apple.com/nl/app/gvb-reis-app/id1544439867) and [Android App](https://play.google.com/store/apps/details?id=nl.gvb.reizigersapp&hl=en&gl=US) (you can set the language in the app to English) that provide directions and alerts, and you can also use [Google Maps](https://www.google.com/maps) to find directions.
 
-The GVB is one way you can get around Amsterdam, if you don't have a bike. These trains only travel inside the city of Amsterdam. They look like this:
+GVB metro trains only travel inside the city of Amsterdam. They look like this:
 
 <img src="images/1920px-Metro_Amsterdam_M5_Kraaiennest_4.jpeg" alt="Metro" style="zoom:30%;"/>
 
-GVB also operates the trams, which run on top of the street amongst cars, bikes, and pedestrians. With a GVB day pass, you can also board them. Trams have more routes in Amsterdam, and can sometimes get you closer to where you need to be than the Metro. They look like this:
+GVB also operates the trams, which run on top of the street amongst cars, bikes, and pedestrians. With a GVB day pass, you can also board them. Trams have more routes in Amsterdam, and can sometimes get you closer to where you need to be than the Metro. But, trams are much slower. They look like this:
 
 <img src="images/tram_amsterdam_gvb-1030x501.jpg" alt="Metro" style="zoom:60%;"/>
+
+
 
 
 
@@ -146,6 +148,36 @@ So, if you want to bike through Amsterdam we can do the following:
 - In the morning, take the train together from Almere to the Amsterdam Zuid station. 
 - Once there, I can use my ID to rent the first two bikes for you. (I'll need to leave you the ID for the day) 
 - After this, I'll make my way to work. To get a third bike, you can go to the nearby [Black Bikes rental](https://black-bikes.com/bike/pedal-brake-bike/) ([google maps link](https://www.google.com/maps/place/Black+Bikes+Zuidas+%7C+Bike+Rental+Amsterdam/@52.3361533,4.8734681,17z/data=!3m1!4b1!4m5!3m4!1s0x47c60a0594b0b237:0x7c6a6b85d19ab270!8m2!3d52.3361533!4d4.8734681)). You need a passport and 50 euro cash deposit, or a credit card to rent bikes in Amsterdam.
+
+
+
+## Scooter Rental
+
+In the netherlands, you can rent a scooter if you have a U.S. driver's license (car driver's license).  In Almere, you can use the green [Go Scooters](https://nl.go-sharing.com/en/). In Amsterdam, there are the [Check Scooters](https://ridecheck.app/) and the [Felyx Scooters](https://felyx.com/). 
+
+Scooters come in two classes based on speed: 
+
+![snorfiets and brommer Dutch scooter license plates in Netherlands](images/snorfiets-and-brommer-Dutch-scooter-license-plates-in-Netherlands.jpg)
+
+1. **snorfiets**: top speed below 45km/h  (27 mph). These can be driven in the bike lanes.
+2. **bromfiets a.k.a. brommer:** top speed above 45km/h (above 27 mph) These cannot be driven in the bike lanes.
+
+
+
+## Things to Do in Almere
+
+### Beach and Watersports
+
+There are a few lake beaches in Almere. Some beaches are on the coast and others on lakes in the interior of the island. 
+
+- [Windsurfvereniging "Almere-Centraal"](https://www.google.com/maps/place/Windsurfvereniging+%22Almere-Centraal%22/@52.3342594,5.208623,16.71z/data=!4m5!3m4!1s0x0:0xc93d9eada06e3f7c!8m2!3d52.3347957!4d5.2062565) is a windsurfing beach
+- [The Cablepark](https://www.google.com/maps/place/Cablepark+VIEW+Almere/@52.358855,5.2154851,16.23z/data=!4m5!3m4!1s0x47c61775acfbbd5f:0xe2fda911bf2058d0!8m2!3d52.3581291!4d5.2152081) is a wakeboarding area where you can wakeboard while beeing pulled by a cable. More info [here](https://cableparkviewalmere.nl/)
+- [Zwemstrand Almere-Haven](https://www.google.com/maps/place/Zwemstrand+Almere-Haven/@52.3342594,5.208623,16.71z/data=!4m5!3m4!1s0x47c617599e829f21:0x2d5bbf83eac31d0f!8m2!3d52.3331619!4d5.2127599) is a swimming beach on the Gooimeer freshwater sound.  
+- [Almeerderstrand](https://www.google.com/maps/place/Almeerderstrand/@52.3414879,5.1277456,14.38z/data=!4m5!3m4!1s0x47c6117db021ff6b:0x57fe2e7a30f8fe5d!8m2!3d52.3361028!4d5.138517) is the largest beach. You might see on your way from Schipol. It's the farthest from your hotel. You'll have to bike 30 minutes to get there.
+- [Noorderplassenstrand](https://www.google.com/maps/place/Noorderplassenstrand/@52.3925905,5.2095761,15.69z/data=!4m12!1m6!3m5!1s0x0:0xe2fda911bf2058d0!2sCablepark+VIEW+Almere!8m2!3d52.3581295!4d5.2152087!3m4!1s0x47c617b44c1e9fed:0x19fa8f2882a9fadc!8m2!3d52.3943056!4d5.2196117) is a really quiet lake in the midst of nature, near houses built in a phase of "architectural experimentation" in Almere. Rarely is it crowded.
+- [Lumierestrand](https://www.google.com/maps/place/Lumi%C3%A8restrand/@52.3629499,5.2303528,15.74z/data=!4m12!1m6!3m5!1s0x0:0xe2fda911bf2058d0!2sCablepark+VIEW+Almere!8m2!3d52.3581295!4d5.2152087!3m4!1s0x47c616f75ed47329:0x673035dd806317d7!8m2!3d52.3625337!4d5.2348781) is the closest beach to your hotel. It's a small little lake beach that can get semi-crowded.
+
+
 
 
 
