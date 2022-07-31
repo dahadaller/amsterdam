@@ -79,6 +79,27 @@ There are also information kiosks where people speak English. They look like thi
 
 
 
+## Things to Do In Amsterdam
+
+There's plenty you can do in the city. Heres a link to a shared google map I made with some cool restaurants and places in Amsterdam: https://goo.gl/maps/deeormL6Xt8s8yiH7 You can even [swing from the tallest building in Amsterdam](https://www.adamlookout.com/). There's the renound [coffee shops](https://dutchreview.com/reviews/places/best-coffeeshops-amsterdam/) and [De Wallen](https://www.timeout.com/amsterdam/restaurants/best-coffeeshops-in-amsterdam) (the red light district) along with [the many museums](https://www.iamsterdam.com/en/see-and-do/things-to-do/museums-and-galleries) of Amsterdam.   Make sure to make an appointment a few days in advance, if you plan to go to a museum. In fact, most things are done with online reservations and appointments. It started during covid and now it's stuck.
+
+
+
+## Things to Do in Almere
+
+### Beach and Watersports
+
+There are a few lake beaches in Almere. Some beaches are on the coast and others on lakes in the interior of the island. 
+
+- [Windsurfvereniging "Almere-Centraal"](https://www.google.com/maps/place/Windsurfvereniging+%22Almere-Centraal%22/@52.3342594,5.208623,16.71z/data=!4m5!3m4!1s0x0:0xc93d9eada06e3f7c!8m2!3d52.3347957!4d5.2062565) is a windsurfing beach
+- [The Cablepark](https://www.google.com/maps/place/Cablepark+VIEW+Almere/@52.358855,5.2154851,16.23z/data=!4m5!3m4!1s0x47c61775acfbbd5f:0xe2fda911bf2058d0!8m2!3d52.3581291!4d5.2152081) is a wakeboarding area where you can wakeboard while beeing pulled by a cable. More info [here](https://cableparkviewalmere.nl/)
+- [Zwemstrand Almere-Haven](https://www.google.com/maps/place/Zwemstrand+Almere-Haven/@52.3342594,5.208623,16.71z/data=!4m5!3m4!1s0x47c617599e829f21:0x2d5bbf83eac31d0f!8m2!3d52.3331619!4d5.2127599) is a swimming beach on the Gooimeer freshwater sound.  
+- [Almeerderstrand](https://www.google.com/maps/place/Almeerderstrand/@52.3414879,5.1277456,14.38z/data=!4m5!3m4!1s0x47c6117db021ff6b:0x57fe2e7a30f8fe5d!8m2!3d52.3361028!4d5.138517) is the largest beach. You might see on your way from Schipol. It's the farthest from your hotel. You'll have to bike 30 minutes to get there.
+- [Noorderplassenstrand](https://www.google.com/maps/place/Noorderplassenstrand/@52.3925905,5.2095761,15.69z/data=!4m12!1m6!3m5!1s0x0:0xe2fda911bf2058d0!2sCablepark+VIEW+Almere!8m2!3d52.3581295!4d5.2152087!3m4!1s0x47c617b44c1e9fed:0x19fa8f2882a9fadc!8m2!3d52.3943056!4d5.2196117) is a really quiet lake in the midst of nature, near houses built in a phase of "architectural experimentation" in Almere. Rarely is it crowded.
+- [Lumierestrand](https://www.google.com/maps/place/Lumi%C3%A8restrand/@52.3629499,5.2303528,15.74z/data=!4m12!1m6!3m5!1s0x0:0xe2fda911bf2058d0!2sCablepark+VIEW+Almere!8m2!3d52.3581295!4d5.2152087!3m4!1s0x47c616f75ed47329:0x673035dd806317d7!8m2!3d52.3625337!4d5.2348781) is the closest beach to your hotel. It's a small little lake beach that can get semi-crowded.
+
+
+
 ## Trains
 
 ### NS: The Intercity Transit System
@@ -161,23 +182,6 @@ Scooters come in two classes based on speed:
 
 1. **snorfiets**: top speed below 45km/h  (27 mph). These can be driven in the bike lanes.
 2. **bromfiets a.k.a. brommer:** top speed above 45km/h (above 27 mph) These cannot be driven in the bike lanes.
-
-
-
-## Things to Do in Almere
-
-### Beach and Watersports
-
-There are a few lake beaches in Almere. Some beaches are on the coast and others on lakes in the interior of the island. 
-
-- [Windsurfvereniging "Almere-Centraal"](https://www.google.com/maps/place/Windsurfvereniging+%22Almere-Centraal%22/@52.3342594,5.208623,16.71z/data=!4m5!3m4!1s0x0:0xc93d9eada06e3f7c!8m2!3d52.3347957!4d5.2062565) is a windsurfing beach
-- [The Cablepark](https://www.google.com/maps/place/Cablepark+VIEW+Almere/@52.358855,5.2154851,16.23z/data=!4m5!3m4!1s0x47c61775acfbbd5f:0xe2fda911bf2058d0!8m2!3d52.3581291!4d5.2152081) is a wakeboarding area where you can wakeboard while beeing pulled by a cable. More info [here](https://cableparkviewalmere.nl/)
-- [Zwemstrand Almere-Haven](https://www.google.com/maps/place/Zwemstrand+Almere-Haven/@52.3342594,5.208623,16.71z/data=!4m5!3m4!1s0x47c617599e829f21:0x2d5bbf83eac31d0f!8m2!3d52.3331619!4d5.2127599) is a swimming beach on the Gooimeer freshwater sound.  
-- [Almeerderstrand](https://www.google.com/maps/place/Almeerderstrand/@52.3414879,5.1277456,14.38z/data=!4m5!3m4!1s0x47c6117db021ff6b:0x57fe2e7a30f8fe5d!8m2!3d52.3361028!4d5.138517) is the largest beach. You might see on your way from Schipol. It's the farthest from your hotel. You'll have to bike 30 minutes to get there.
-- [Noorderplassenstrand](https://www.google.com/maps/place/Noorderplassenstrand/@52.3925905,5.2095761,15.69z/data=!4m12!1m6!3m5!1s0x0:0xe2fda911bf2058d0!2sCablepark+VIEW+Almere!8m2!3d52.3581295!4d5.2152087!3m4!1s0x47c617b44c1e9fed:0x19fa8f2882a9fadc!8m2!3d52.3943056!4d5.2196117) is a really quiet lake in the midst of nature, near houses built in a phase of "architectural experimentation" in Almere. Rarely is it crowded.
-- [Lumierestrand](https://www.google.com/maps/place/Lumi%C3%A8restrand/@52.3629499,5.2303528,15.74z/data=!4m12!1m6!3m5!1s0x0:0xe2fda911bf2058d0!2sCablepark+VIEW+Almere!8m2!3d52.3581295!4d5.2152087!3m4!1s0x47c616f75ed47329:0x673035dd806317d7!8m2!3d52.3625337!4d5.2348781) is the closest beach to your hotel. It's a small little lake beach that can get semi-crowded.
-
-
 
 
 
