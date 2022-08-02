@@ -84,6 +84,7 @@ There are also information kiosks where people speak English. They look like thi
 There's plenty you can do in the city. 
 
 - Heres a link to a shared google map I made with some cool restaurants and places in Amsterdam: [https://goo.gl/maps/deeormL6Xt8s8yiH7]( https://goo.gl/maps/deeormL6Xt8s8yiH7 ) 
+- There are [free ferries](https://www.iamsterdam.com/en/plan-your-trip/getting-around/public-transport/ferry) in Amsterdam 
 - You can even [swing from the tallest building in Amsterdam](https://www.adamlookout.com/). 
 - There's the renowned [coffee shops](https://dutchreview.com/reviews/places/best-coffeeshops-amsterdam/) and [De Wallen](https://www.timeout.com/amsterdam/restaurants/best-coffeeshops-in-amsterdam) (the red light district) 
 - along with [the many museums](https://www.iamsterdam.com/en/see-and-do/things-to-do/museums-and-galleries) of Amsterdam.  Make sure to make an appointment a few days in advance, if you plan to go to a museum. 
